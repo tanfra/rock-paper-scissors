@@ -1,0 +1,1 @@
+This is the famous game of Rock-Paper-Scissors, where players simultaneously choose between rock, paper, or scissors, with rock crushing scissors, scissors cutting paper, and paper covering rock, and if both players choose the same option, the game ends in a tie.
